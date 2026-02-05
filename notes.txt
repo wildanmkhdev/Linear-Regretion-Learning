@@ -1,0 +1,2 @@
+train test split itu bagi data  jadi laithan da n uji
+metrics buat nilai model kita pinter atau ga
